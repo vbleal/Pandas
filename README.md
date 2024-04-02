@@ -76,7 +76,9 @@ El presente Notebook explora las ideas presentadas en el paper denominado:
 <details>
     <summary> Expandir </summary>
 
-Véase el Notebook.
+Véase el Notebook:
+
+- [GH_Pandas_WhitePaper.ipynb](https://github.com/vbleal/Pandas/blob/main/GH_Pandas_WhitePaper.ipynb)
 
 </details>
 
